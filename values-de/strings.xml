@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="locale">de</string>
-    <string name="default_name">iss mich nicht</string>
+    <string name="default_name">ess mich nicht</string>
     <string name="cancel">Stornieren</string>
-    <string name="error">der Fehler</string>
+    <string name="error">ein fehler ist aufgetreten</string>
     <string name="no_internet">Für dieses Spiel benötigen Sie eine Internetverbindung</string>
     <string name="show_minimap">Minikarte anzeigen</string>
-    <string name="show_chat">Zeigen Sie den Chat</string>
+    <string name="show_chat">Zeige Chat</string>
     <string name="show_advanced_minimap">Erweiterte Minikarte</string>
     <string name="region">Region:</string>
     <string name="show_grid">Raster anzeigen</string>
     <string name="show_mass">Masse anzeigen</string>
     <string name="show_names">Namen anzeigen</string>
     <string name="name">Name</string>
-    <string name="play">abspielen</string>
+    <string name="play">spielen</string>
     <string name="nick_name">Spitzname:</string>
     <string name="exit_dialog">Was möchtest du?</string>
     <string name="exit">Ausgang</string>
@@ -36,7 +36,7 @@
     <string name="cant_connect">Verbindung zum Server nicht möglich Bitte versuche es erneut</string>
     <string name="about_title">Über</string>
     <string name="about_text">&#032;&#032;Blob Android client %1$s \n\n
-        &#032;Wenn dieser Client nicht mehr funktioniert, suchen Sie nach Updates.\n
+        &#032;Wenn dieser Client nicht mehr funktioniert, suchen nach Updates.\n
     </string>
     <string name="check_update">Aktualisierung überprüfen</string>
     <string name="score_result">Ihr Ergebnis %1$s</string>
@@ -46,10 +46,10 @@
     <string name="share_score_text">ich habe %1$d punkte im Blob-Spiel! Spiele mit mir! #blob_game %2$s</string>
     <string name="records">Aufzeichnungen</string>
     <string name="spec_mode_after_death">Spectate nach dem Tod</string>
-    <string name="darkTheme">Dunkles Thema</string>
+    <string name="darkTheme">Dunkles hintergrund</string>
     <string name="left_hand_control">Linke Handsteuerung</string>
 
-    <string name="party_created">Gib diesen Link an deine Freunde weiter:</string>
+    <string name="party_created">versende den link an deine Freunde weiter:</string>
     <string name="joining">Beitritt ...</string>
     <string name="creating_party">Party erstelleninvite</string>
     <string name="vibration">Vibrieren</string>
@@ -68,9 +68,9 @@
         &#160; Sie können auch die Anzeige von Namen und Masse deaktivieren, um Verzögerungen zu vermeiden.\n
 
     </string>
-    <string name="first_start_dialog_title">Spielmechanik</string>
+    <string name="first_start_dialog_title">Spielanleitung</string>
     <string name="update_title">Update verfügbar</string>
-    <string name="update_message">Willst du es jetzt bekommen?</string>
+    <string name="update_message">Willst du das update jetzt installieren?</string>
     <string name="players">Spieler:&#160;</string>
     <string name="totals">Summen</string>
 
@@ -105,8 +105,8 @@
     <string name="rta_dialog_ok2">Jetzt teilen!</string>
 
     <string name="low_lvl_message">Ihr Level ist niedriger als erforderlich</string>
-    <string name="login_for_skins_message">Sie müssen sich anmelden, um diese Skins verwenden zu können</string>
-    <string name="skin_unlocked">Du hast die Haut freigeschaltet %1$s!</string>
+    <string name="login_for_skins_message">Sie müssen sich anmelden, um skins verwenden zu können</string>
+    <string name="skin_unlocked">Du hast eine neue haut freigeschaltet %1$s!</string>
     <string name="optimize_names">Namen optimieren</string>
     <string name="low_graphic">Niedrige Grafik</string>
     <string name="macros">Makros</string>
@@ -123,21 +123,21 @@
     <string name="relations">Beziehungen</string>
     <string name="you_must_log_in">Sie müssen sich einloggen</string>
     <string name="last_seen">Zuletzt gesehen</string>
-    <string name="registered">Eingetragen</string>
+    <string name="registered">registriert</string>
     <string name="game_time">Spielzeit</string>
     <string name="user_info_records">Aufzeichnungen:</string>
 
     <string name="view_profile">Profil anzeigen</string>
-    <string name="delete">Löschen</string>
-    <string name="join_game">Spiel beitreten</string>
+    <string name="delete">freund Löschen</string>
+    <string name="join_game">Spielmodi beitreten</string>
     <string name="accept">Akzeptieren</string>
     <string name="decline">Ablehnen</string>
     <string name="copy">Kopiere</string>
 
     <string name="better_skins_quality">Bessere Hautqualität</string>
     <string name="better_skins_warning">Dies kann zu Verzögerungen führen. Verwenden Sie dies, wenn Sie Pixel auf den Skins sehen</string>
-    <string name="stop_on_release">Beim loslassen stoppen</string>
-    <string name="type_user_id">Geben Sie die Benutzer-ID ein</string>
+    <string name="stop_on_release">Beim loslassen zelle stoppen</string>
+    <string name="type_user_id">Geben Sie die ID des spielers ein</string>
     <string name="copy_user_id">ID kopieren</string>
     <string name="send_friend_request">Einladen</string>
     <string name="friend_request_successful">Freundschaftsanfrage erfolgreich gesendet</string>
