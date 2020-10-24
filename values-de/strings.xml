@@ -142,22 +142,22 @@
     <string name="send_friend_request">Einladen</string>
     <string name="friend_request_successful">Freundschaftsanfrage erfolgreich gesendet</string>
     <string name="added_new_friend">Neuer Freund hinzugefügt</string>
-    <string name="moved_to_declined">In abgelehnt verschoben</string>
-    <string name="show_friends">Zeige Freunde</string>
-    <string name="watch">Uhr</string>
+    <string name="moved_to_declined">Freund in abgelehnt verschoben</string>
+    <string name="show_friends">Zeigen sie Freunde</string>
+    <string name="watch">anschauen</string>
     <string name="unknown_user">Unbekannter Benutzer</string>
     <string name="reset">Zurücksetzen</string>
 
     <!-- More settings -->
-    <string name="more">Mehr</string>
+    <string name="more">Mehr Einstellungen</string>
     <string name="controls_opacity">Steuert die Opazität:</string>
     <string name="chat_text_size">Chat-Textgröße:</string>
     <string name="camera_zoom">Kamera herauszoomen:</string>
-    <string name="live_score">Live-Ergebnis</string>
+    <string name="live_score">Ergebnis</string>
 
     <!-- Joystick settings-->
     <string name="margins">Margen:</string>
-    <string name="size">Größe:</string>
+    <string name="size">Masse:</string>
     <string name="old_type">Alter Typ</string>
 
     <string name="coins">Münzen</string>
@@ -168,23 +168,23 @@
 
     <!-- API ERROR MESSAGES -->
     <string name="user_not_found">Benutzer mit dieser ID wurde nicht gefunden</string>
-    <string name="request_already_sent_error">Freundschaftsanfrage bereits gesendet</string>
+    <string name="request_already_sent_error"> sie haben die Freundschaftsanfrage bereits gesendet</string>
     <string name="already_friend_error">Dieser Benutzer ist schon dein Freund</string>
     <string name="not_enough_coins">Du hast nicht genug Münzen</string>
     <string name="already_own_item">Du besitzt diesen Gegenstand bereits</string>
 
     <string name="searching_ad_video">Suchen Sie nach einem Video, bitte warten Sie</string>
     <string name="processing">Wird bearbeitet...</string>
-    <string name="free_coins_toast">Du hast %d Münzen kostenlos!</string>
+    <string name="free_coins_toast">Du hast %d Münzen kostenlos bekommen!</string>
     <string name="free_coins">Kostenlose Münzen</string>
     <string name="watch_video">Schau Video</string>
-    <string name="lvl_coins_reward">Herzlichen Glückwünsch! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string>
+    <string name="lvl_coins_reward">Glückwünsch! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string>
 
     <!-- Items description localization -->
-    <string name="mass_booster_x1_5_desc">Spiel starten mit x1.5 größere Masse für die nächste Stunde</string>
-    <string name="mass_booster_x2_desc">Beginnen Sie das Spiel mit der doppelten Masse für die nächste Stunde</string>
-    <string name="exp_booster_x1_5_desc">Alle verdienten exp Multiplikationen nach 1.5 für die nächste 1 Stunde</string>
-    <string name="exp_booster_x2_desc">All earned exp multipliziert mit 2 für die nächste Stunde</string>
+    <string name="mass_booster_x1_5_desc">Spiel starten mit x1.5 größere Masse für die ganze Stunde</string>
+    <string name="mass_booster_x2_desc">Beginnen Sie das Spiel mit der doppelten Masse für die ganze Stunde</string>
+    <string name="exp_booster_x1_5_desc">Alle verdienten exp Multiplikationen nach 1.5 für die ganze Stunde</string>
+    <string name="exp_booster_x2_desc">verdien exp multipliziert mit 2 für die nächste Stunde</string>
     <string name="watch_video_desc">Video ansehen und bekommen sie %d Münzen!</string>
     <string name="free_coins_desc">Bekommen %1$s Münzen kostenlos %2$d Stunde</string>
     <string name="m">m</string>
@@ -196,38 +196,38 @@
     <string name="chat_suffix_desc">Zu Nick hinzufügen%s Suffix</string>
     <string name="user_role_desc">Dieser Benutzer ist %s</string>
     <string name="size_animation_speed">Schnelle der Animationsgeschwindigkeit:</string>
-    <string name="search">Suche</string>
-    <string name="type_skin_name">Geben Sie den Namen der Haut ein</string>
+    <string name="search">Skin suchen</string>
+    <string name="type_skin_name">Geben Sie den Namen des Skins ein</string>
     <string name="waiting_for_players">Warten auf Spieler</string>
-    <string name="type_room_key">Geben Sie den Zimmerschlüssel ein</string>
+    <string name="type_room_key">Geben Sie den Serverschlüssel ein</string>
 
     <string name="random">Zufällig</string>
     <string name="key">Schlüssel</string>
     <string name="left_label">(%s left)</string>
-    <string name="coins_battle">Münzen kämpfen: </string>
-    <string name="spectate_title">Zuschauen</string>
+    <string name="coins_battle">Münz kampf: </string>
+    <string name="spectate_title">beobachten</string>
     <string name="game_isnt_started_yet">Das Spiel wurde noch nicht gestartet. Sie können Ihre Münzen verlieren!</string>
     <string name="show_cell_border">Zellenrand anzeigen</string>
-    <string name="cur_week_exp">Kur. Woche Exp</string>
-    <string name="prev_week_exp">Vorherige Woche Exp</string>
+    <string name="cur_week_exp">Diese Woche Exp Top 100</string>
+    <string name="prev_week_exp">Vorherige Woche Exp Top 100</string>
     <string name="rules_title">Regeln</string>
     <string name="rules_description">
         \n
         1.) Beleidige keine anderen Spieler\n
         2.) Gib nicht vor, ein MODERATOR zu sein\n
         3.) Tauschen Sie keine Blob.io-Konten außerhalb oder innerhalb des Spiels aus\n
-        4.) Betrüge nicht, um die beste Platzierung zu erreichen\n
-        5.) Verwenden Sie keine unangemessenen Namen im Spiel\n
-        6.) Nutzen Sie keine Bugs im Spiel\n
+        4.) Betrüge nicht/keine gltiches um die beste Platzierung zu erreichen\n
+        5.) Verwenden Sie keine unangemessenen/beleidigenden Namen im Spiel\n
+        6.) Nutzen Sie keine Bugs/glitches im Spiel\n
         7.) Nicht mit jemandem auf der anderen Seite des Teams zusammenarbeiten (CROSS TEAMING)\n
     </string>
-    <string name="top_week_exp_desc">Erhalten Sie so viel wie möglich während der Woche und gewinnen Sie Münzen Belohnung!</string>
-    <string name="server_app_description">Mit dieser App können Sie eigene Server erstellen und offline oder mit Freunden spielen!</string>
+    <string name="top_week_exp_desc">Erhalten Sie so viel XPs wie möglich während der Woche und gewinnen Sie Münzen als Belohnung!</string>
+    <string name="server_app_description">Mit dieser App können sie eigene Server erstellen und offline oder mit Freunden spielen!</string>
     <string name="show_fps">Zeigen Sie FPS/PING</string>
     <string name="chat_enable_warning">With this option enabled app rating becomes higher!</string>
     <string name="score_title">Punktzahl:</string>
 
-    <string name="saved">gespeichert</string>
+    <string name="saved"> Server gespeichert</string>
     <string name="delete_server">Server löschen?</string>
     <string name="deleted">Gelöscht</string>
     <string name="added">Hinzugefügt</string>
@@ -242,8 +242,8 @@
     <string name="custom_server">Benutzerdefinierter Server</string>
     <string name="custom_server_created">Benutzerdefinierter Server erstellt</string>
     <string name="highlight_friends">Freunde hervorheben</string>
-    <string name="custom_colors">Benutzerdefiniertes Theme</string>
-    <string name="background_title">Hintergrund festlegen</string>
+    <string name="custom_colors">Benutzerdefiniertes Hintergrund</string>
+    <string name="background_title">das bild als Hintergrund festlegen</string>
     <string name="grid_title">Gitter</string>
     <string name="food_title">Essen</string>
     <string name="virus_title">Virus</string>
@@ -251,9 +251,9 @@
     <string name="eject_title">Auswerfen</string>
     <string name="friend_name_title">Name des Freundes</string>
     <string name="invitation_sent">In den Server joinen!</string>
-    <string name="choose_friend">Freund Einladen</string>
+    <string name="choose_friend">Freunde Einladen</string>
     <string name="notifications">Benarichtigung</string>
-    <string name="join_server">server beitreten</string>
+    <string name="join_server">dem server beitreten?</string>
     <string name="friend_request">Demande d\'ami</string>
     <string name="friend_accepted">Ami accepter</string>
     <string name="only_friends_skins">Alleen de vellen van vrienden</string>
