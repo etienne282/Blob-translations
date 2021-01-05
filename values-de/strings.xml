@@ -3,25 +3,25 @@
     <string name="locale">de</string>
     <string name="default_name">iss mich nicht</string>
     <string name="cancel">Stornieren</string>
-    <string name="error">der Fehler</string>
-    <string name="no_internet">Für dieses Spiel benötigen Sie eine Internetverbindung</string>
-    <string name="show_minimap">Minikarte anzeigen</string>
+    <string name="error">Ein Fehler ist aufgetreten</string>
+    <string name="no_internet">Für Blob benötigen Sie eine Internetverbindung</string>
+    <string name="show_minimap">Minikarte anzeigen lassen</string>
     <string name="show_chat">Zeigen Sie den Chat</string>
     <string name="show_advanced_minimap">Erweiterte Minikarte</string>
-    <string name="region">Region:</string>
+    <string name="region"> In welcher Region Spielst du?:</string>
     <string name="show_grid">Raster anzeigen</string>
-    <string name="show_mass">Masse anzeigen</string>
-    <string name="show_names">Namen anzeigen</string>
+    <string name="show_mass">Zeige Masse</string>
+    <string name="show_names">Zeige Namen</string>
     <string name="name">Name</string>
-    <string name="play">abspielen</string>
+    <string name="play">Spielen</string>
     <string name="nick_name">Spitzname:</string>
-    <string name="exit_dialog">Was möchtest du?</string>
-    <string name="exit">Ausgang</string>
+    <string name="exit_dialog">Was möchten sie?</string>
+    <string name="exit">Verlassen</string>
     <string name="restart">Neustart</string>
-    <string name="show_leaders">Zeigen Sie Anführer</string>
-    <string name="show_skins">Häute anzeigen</string>
-    <string name="show_DirectionPointer">Richtung Zeiger</string>
-    <string name="show_joystick">Steuerknüppel</string>
+    <string name="show_leaders">Zeigen Sie den Anführer</string>
+    <string name="show_skins">Zeige Häute</string>
+    <string name="show_DirectionPointer">Richtungs Zeiger</string>
+    <string name="show_joystick">Steuerrad</string>
     <string name="save_button">sparen</string>
     <string name="settings">die Einstellungen</string>
     <string name="skins_list">Häute</string>
@@ -36,17 +36,17 @@
     <string name="cant_connect">Verbindung zum Server nicht möglich Bitte versuche es erneut</string>
     <string name="about_title">Über</string>
     <string name="about_text">&#032;&#032;Blob Android client %1$s \n\n
-        &#032;Wenn dieser Client nicht mehr funktioniert, suchen Sie nach Updates.\n
+        &#032;Wenn dieser Client nicht mehr funktioniert, dan aktualisieren  Sie das spiel.\n
     </string>
     <string name="check_update">Aktualisierung überprüfen</string>
-    <string name="score_result">Ihr Ergebnis %1$s</string>
+    <string name="score_result"Deine Punktzahl %1$s</string>
     <string name="you_set_new_record">Du hast in diesem Spielmodus einen neuen Rekord aufgestellt!</string>
     <string name="share">Aktie</string>
     <string name="share_text">Glaubst du, du kannst mich in Blob besiegen? Hah, versuch es :) #blob_game %1$s</string>
     <string name="share_score_text">ich habe %1$d punkte im Blob-Spiel! Spiele mit mir! #blob_game %2$s</string>
-    <string name="records">Aufzeichnungen</string>
-    <string name="spec_mode_after_death">Spectate nach dem Tod</string>
-    <string name="darkTheme">Dunkles Thema</string>
+    <string name="records">Aufnahmen</string>
+    <string name="spec_mode_after_death">Zuschauen nach dem Tod</string>
+    <string name="darkTheme">Dunkler Hintergrund</string>
     <string name="left_hand_control">Linke Handsteuerung</string>
 
     <string name="party_created">Gib diesen Link an deine Freunde weiter:</string>
@@ -54,7 +54,7 @@
     <string name="creating_party">Party erstelleninvite</string>
     <string name="vibration">Vibrieren</string>
     <string name="game_mechanic_description">
-        &#160;&#160;- Je größer Sie sind, desto langsamer bewegen Sie sich\n
+        &#160;&#160;- Je größer deine celle ist , desto langsamer bewegst  du dich
         &#160;- Tippen Sie auf die entsprechende Schaltfläche, um in zwei kleinere Blobs zu unterteilen. Eine Hälfte von Ihnen schießt schnell vorwärts, verwenden Sie diesen Trick, um andere Spieler zu treffen und zu essen.\n
         &#160;- Wenn Sie geteilt sind, können Sie nach Ablauf einer bestimmten Zeit zu einem Blob rekombinieren. Je größer Ihre Blobs, desto länger müssen Sie warten, bevor Sie sich wieder zu einem Blob formen können\n
         &#160;- Wenn Sie kleiner als die stacheligen Bälle sind, können Sie sich zum Schutz in ihnen verstecken. Wenn Sie jedoch größer als ein Spikeball sind, werden Sie durch Berühren in viele winzige Flecken gesprengt.\n
@@ -68,9 +68,9 @@
         &#160; Sie können auch die Anzeige von Namen und Masse deaktivieren, um Verzögerungen zu vermeiden.\n
 
     </string>
-    <string name="first_start_dialog_title">Spielmechanik</string>
+    <string name="first_start_dialog_title">Spielsteuerug</string>
     <string name="update_title">Update verfügbar</string>
-    <string name="update_message">Willst du es jetzt bekommen?</string>
+    <string name="update_message">Willst du es jetzt haben?</string>
     <string name="players">Spieler:&#160;</string>
     <string name="totals">Summen</string>
 
@@ -84,17 +84,17 @@
     <string name="game_mode">Spielmodus:</string>
 
     <string name="unavailable">Nicht verfügbar</string>
-    <string name="top_lvl">Höchststufe</string>
+    <string name="top_lvl">Top 100 der Höchstlevler</string>
     <string name="top">Top&#160;</string>
-    <string name="receiving">Empfang...</string>
-    <string name="get_it">Hole es!</string>
+    <string name="receiving">du hast eine naricht Empfangen!</string>
+    <string name="get_it"Hol es dir!</string>
 
-    <string name="keep_ip">Keep IP für diese Sitzung</string>
+    <string name="keep_ip">behalte die IP für diese Sitzung</string>
     <string name="keep_ip_description">Das Spiel aktualisiert die IP während dieser Spielsitzung nicht automatisch</string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">Bewerte diese App</string>
-    <string name="rta_dialog_message">Wenn Sie diese App gerne nutzen möchten, nehmen Sie sich einen Moment Zeit, um sie zu bewerten? Es dauert nicht länger als eine Minute. Danke für Ihre Unterstützung!</string>
+    <string name="rta_dialog_title">Bewerte diese blob </string>
+    <string name="rta_dialog_message">Wenn Sie diese App gerne nutzen, nehmen Sie sich einen Moment Zeit, um sie zu bewerten? Es dauert nicht länger als eine Minute. Danke für Ihre Unterstützung!</string>
     <string name="rta_dialog_ok">Jetzt bewerten</string>
     <string name="rta_dialog_cancel">Später</string>
     <string name="rta_dialog_no">Nein Danke</string>
@@ -382,13 +382,13 @@
         <item>Click on a triangle near chat and invite friends to your server!</item>
         <item>Loge dich ein um zu lvln und mit größerer startmasse zu starten!</item>
         <item>benutze mass/exp boosters um mehr zugewinnen und schneller zu lvln!</item>
-        <item>If you ran out of coins, just buy them! :)</item>
+        <item>Wenn du keine coins mehr hast das kauf sie dir! :)</item>
         <item>Use rare skins and make everybody jealous!</item>
         <item>Customize game colors/params to your needs to play more comfortable!</item>
         <item>You can see your friends on the minimap!</item>
         <item>Have a chat with people and find new friends!</item>
         <item>Join our discord server to vote/chat and be up to date!</item>
-        <item>Bring your real life friends in Blob to have fun together!</item>
+        <item>Hol freunde ich das spiel und mit ihn zu zocken!</item>
         <item>jeder spieler hat eine eigene ID, du kannst sie teilen damit deine freunde dich in Blob finden!</item>
         <item>You can play on an empty server as a practice!</item>
         <item>You can click on IP label and change it or open servers list!</item>
@@ -399,9 +399,9 @@
         <item>sitze näher an deinem wifi, um besseres wlan zu krigen !</item>
         <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
         <item>schalte dein BLUETOOTH aus um internet lags/verzögerungen zu reduzieren!</item>
-        <item>You can set up any image as background in the game!</item>
+        <item>du kannst dir ein eigenen hintergrund machen in the game!</item>
         <item>You can record nice gameplay moments and watch them later in replays!</item>
-        <item>You can share your replays with other people to show them how you win!</item>
-        <item>This game supports has full gamepad support!</item>
+        <item>du kannst deine spiel aufzeichnugen mit deinrn freunden teilen!</item>
+        <item>das spiel unterstützt nun Kontroller und Tastatur</item>
     </string-array>
 </resources>
