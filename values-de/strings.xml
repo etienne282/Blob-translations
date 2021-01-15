@@ -3,23 +3,23 @@
     <string name="locale">de</string>
     <string name="default_name">iss mich nicht</string>
     <string name="cancel">Stornieren</string>
-    <string name="error">der Fehler</string>
+    <string name="error">ein Fehler ist aufgetreten</string>
     <string name="no_internet">Für dieses Spiel benötigen Sie eine Internetverbindung</string>
     <string name="show_minimap">Minikarte anzeigen</string>
-    <string name="show_chat">Zeigen Sie den Chat</string>
+    <string name="show_chat">Zeigen Sie den Chat im spiel</string>
     <string name="show_advanced_minimap">Erweiterte Minikarte</string>
     <string name="region">Region:</string>
-    <string name="show_grid">Raster anzeigen</string>
-    <string name="show_mass">Masse anzeigen</string>
+    <string name="show_grid">Raster anzeigen lassen </string>
+    <string name="show_mass">Masse anzeigen lassen </string>
     <string name="show_names">Namen anzeigen</string>
     <string name="name">Name</string>
-    <string name="play">abspielen</string>
+    <string name="play">Spielen</string>
     <string name="nick_name">Spitzname:</string>
     <string name="exit_dialog">Was möchtest du?</string>
     <string name="exit">Ausgang</string>
     <string name="restart">Neustart</string>
-    <string name="show_leaders">Zeigen Sie Anführer</string>
-    <string name="show_skins">Häute anzeigen</string>
+    <string name="show_leaders">Zeigen Sie den Anführer</string>
+    <string name="show_skins">Häute anzeigen lassen </string>
     <string name="show_DirectionPointer">Richtung Zeiger</string>
     <string name="show_joystick">Steuerknüppel</string>
     <string name="save_button">sparen</string>
@@ -31,21 +31,21 @@
     <string name="connecting">Verbinden mit Verbinden mit spezieller IP</string>
     <string name="enter_ip">Geben Sie die Server-IP ein</string>
     <string name="copied">Kopiert</string>
-    <string name="connection_closed">die Verbindung wurde von dem Server geschlossen</string>
+    <string name="connection_closed">die Verbindung wurde von dem Server abgebrochen</string>
     <string name="connection_lost">Verbindung unterbrochen</string>
     <string name="cant_connect">Verbindung zum Server nicht möglich Bitte versuche es erneut</string>
     <string name="about_title">Über</string>
     <string name="about_text">&#032;&#032;Blob Android client %1$s \n\n
         &#032;Wenn dieser Client nicht mehr funktioniert, suchen Sie nach Updates.\n
     </string>
-    <string name="check_update">Aktualisierung überprüfen</string>
-    <string name="score_result">Ihr Ergebnis %1$s</string>
+    <string name="check_update">auf Aktualisierung überprüfen</string>
+    <string name="score_result">Ihre Punktzahl %1$s</string>
     <string name="you_set_new_record">Du hast in diesem Spielmodus einen neuen Rekord aufgestellt!</string>
     <string name="share">Aktie</string>
     <string name="share_text">Glaubst du, du kannst mich in Blob besiegen? Hah, versuch es :) #blob_game %1$s</string>
     <string name="share_score_text">ich habe %1$d punkte im Blob-Spiel! Spiele mit mir! #blob_game %2$s</string>
     <string name="records">Aufzeichnungen</string>
-    <string name="spec_mode_after_death">Spectate nach dem Tod</string>
+    <string name="spec_mode_after_death">Zuschauen nach dem Tod</string>
     <string name="darkTheme">Dunkles Thema</string>
     <string name="left_hand_control">Linke Handsteuerung</string>
 
@@ -68,11 +68,11 @@
         &#160; Sie können auch die Anzeige von Namen und Masse deaktivieren, um Verzögerungen zu vermeiden.\n
 
     </string>
-    <string name="first_start_dialog_title">Spielmechanik</string>
-    <string name="update_title">Update verfügbar</string>
+    <string name="first_start_dialog_title">Spielsteuerung</string>
+    <string name="update_title">Update verfügbar und zum installieren bereit</string>
     <string name="update_message">Willst du es jetzt bekommen?</string>
     <string name="players">Spieler:&#160;</string>
-    <string name="totals">Summen</string>
+    <string name="totals">Anzahl</string>
 
 
     <string name="fb_info_title">Information</string>
@@ -80,7 +80,7 @@
         Steige auf, um noch mehr Startmasse zu erhalten und neue Level-Skins freizuschalten!</string>
     <string name="how_to_install">Wie installiert man</string>
     <string name="how_to_instal_link">http://www.technipages.com/kindle-fire-how-to-install-apk-files</string>
-    <string name="prem_skin_message">Setup diese Haut?</string>
+    <string name="prem_skin_message"> diese Haut benutzen?</string>
     <string name="game_mode">Spielmodus:</string>
 
     <string name="unavailable">Nicht verfügbar</string>
@@ -89,19 +89,19 @@
     <string name="receiving">Empfang...</string>
     <string name="get_it">Hole es!</string>
 
-    <string name="keep_ip">Keep IP für diese Sitzung</string>
+    <string name="keep_ip">behalt IP für diese Sitzung</string>
     <string name="keep_ip_description">Das Spiel aktualisiert die IP während dieser Spielsitzung nicht automatisch</string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">Bewerte diese App</string>
-    <string name="rta_dialog_message">Wenn Sie diese App gerne nutzen möchten, nehmen Sie sich einen Moment Zeit, um sie zu bewerten? Es dauert nicht länger als eine Minute. Danke für Ihre Unterstützung!</string>
+    <string name="rta_dialog_title">Bewerten sie diese App</string>
+    <string name="rta_dialog_message">Wenn Sie dieses spiel gerne spielen möchten, nehmen Sie sich einen Moment Zeit, um die app zu bewerten? Es dauert nicht länger als eine Minute. Danke für Ihre Unterstützung!</string>
     <string name="rta_dialog_ok">Jetzt bewerten</string>
     <string name="rta_dialog_cancel">Später</string>
     <string name="rta_dialog_no">Nein Danke</string>
 
     <!-- Share this app-->
     <string name="rta_dialog_title2">Teile diese App</string>
-    <string name="rta_dialog_message2">Teilen Sie diese App Wenn Sie diese App mögen, zeigen Sie es Ihren Freunden! Sie mögen es vielleicht auch!</string>
+    <string name="rta_dialog_message2">Teilen Sie diese App Wenn Sie dieses spielmög</string>
     <string name="rta_dialog_ok2">Jetzt teilen!</string>
 
     <string name="low_lvl_message">Ihr Level ist niedriger als erforderlich</string>
